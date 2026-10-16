@@ -1,0 +1,16 @@
+/* modifie tous les éléments qui ont la class box */
+.box {
+    /* définit la hauteur de la boite */
+    height: 40px;
+    /* définit la largeur de la boite */
+    width: 40px;
+    border: solid black 2px;
+    border-radius: 4px;
+    margin: 4px;
+    background-color: pink;
+}
+
+.exo1 {
+    display: flex;
+    border-bottom: 2px solid black;
+}
