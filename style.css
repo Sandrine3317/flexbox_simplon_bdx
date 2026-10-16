@@ -9,8 +9,13 @@
     margin: 4px;
     background-color: pink;
 }
-
+.borderB {
+border-bottom: 2px solid black;
+}
 .exo1 {
+    display: flex;  
+}
+.exo2 {
     display: flex;
-    border-bottom: 2px solid black;
+    justify-content: space-between;
 }
